@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ignafemenia/ignafemenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Ignacio 
+# Business Administration Student and also Developer
 
-Here are some ideas to get you started:
+- Learning : Full-Stack Development ⚡ | Open-Source 🔥
+- Languages : Javascript, Python, MySQL, CSS, HTML, JAVA
+- Interested: Collaborate on IT Projects 👀
+- Hobbies :  Music 🎧
+- Fact : ⚡ First solve the problem, then write the code ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me :
+- [Linkedin](https://www.linkedin.com/in/ignaciofemenia/)
+- [Git](https://github.com/ignafemenia)
